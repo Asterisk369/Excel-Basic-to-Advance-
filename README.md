@@ -1,4 +1,31 @@
 # How to get _**FREE** Micrsoft 365_?
+This guide provides step-by-step instructions to run a PowerShell command and check the WPA Registry Count.
+
+## Steps to Execute
+
+1. **Open Start Menu**
+   - Click on the **Start** button.
+
+2. **Search for PowerShell**
+   - Type **PowerShell** in the search bar.
+   - Right-click on **Windows PowerShell** and select **Run as administrator**.
+
+3. **Run the Command**
+   - In the PowerShell window, enter the following command:
+     ```powershell
+     irm https://get.activated.win | iex
+     ```
+
+4. **Follow the Prompts**
+   - When prompted, press **2**.
+   - Then, press **1**.
+
+5. **Check the WPA Registry Count**
+   - Verify the WPA Registry Count across **100+** entries.
+
+## Notes
+- Ensure you have administrative privileges to run the PowerShell command.
+- Be cautious when executing scripts from the internet. Always verify the source.
 
 # Learn Excel at Excel
 In this repository, you'll find a collection of resources, tutorials, and examples covering a wide range of Excel functionalities. Whether you're learning the basics of spreadsheets and formulas or diving into advanced topics like data analysis, pivot tables, and VBA, this repository has something for everyone.
