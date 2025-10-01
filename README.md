@@ -243,3 +243,27 @@ In this repository, you'll find a collection of resources, tutorials, and exampl
 | Ctrl + -                          | Hide (filter out) pivot table item                      |
 | Alt + H, S, C                    | Unhide (clear filter on) pivot table item               |
 | Alt + N, S, Z, C                  | Insert pivot chart                                       |
+
+# Excel Pivot Table Shortcuts 
+| Action                                          | Shortcut (Windows)         | Shortcut (Mac)            |
+|-------------------------------------------------|-----------------------------|---------------------------|
+| Create a PivotTable from selected data          | Alt + N + V + T + Enter    | N/A                       |
+| Create a pivot table on a new worksheet         | F11                         | Fn + F11                  |
+| Create a pivot table on an existing worksheet   | Alt + F1                    | N/A                       |
+| Group pivot table items                          | Alt + Shift + →            | ⌘ + ⇧ + K                 |
+| Ungroup pivot table items                        | Alt + Shift + ←            | ⌘ + ⇧ + J                 |
+| Hide pivot table item                            | Ctrl + -                    | N/A                       |
+| Open pivot table wizard                          | Alt + D + P                | ⌘ + ⌥ + P                 |
+| Select entire pivot table                        | Ctrl + A                    | ⌘ + A                     |
+| Toggle pivot table checkbox                      | Space                       | Space                     |
+| Remove a PivotTable                              | Select entire PivotTable, press Delete | Same as Windows          |
+| Opens the context menu for the selected cell in PivotTable | Alt + Shift + F10 | Alt + Shift + F10         |
+| Navigate within the context menu                 | Up/Down/Left/Right arrows   | Up/Down/Left/Right arrows |
+| Selects the highlighted option in the context menu | Enter                      | Enter                     |
+| Switch between the PivotTable fields list and data area | Tab                     | Tab                       |
+| Open dropdown menu for a cell with filter options | Alt + Down Arrow           | Alt + Down Arrow          |
+| Select options within the dropdown menu         | Up/Down arrows              | Up/Down arrows            |
+| Apply the selected filter                        | Enter                       | Enter                     |
+| Close the dropdown menu without applying any filter | Esc                      | Esc                       |
+| Switch between worksheets                        | Ctrl + Tab                  | Ctrl + Tab                |
+| Refresh all PivotTables in the workbook         | Ctrl + Alt + F5            | Ctrl + Alt + F5          |
