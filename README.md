@@ -1,4 +1,4 @@
-# How to get _**FREE** Micrsoft 365_?
+# How to get _**FREE** Microsoft office 365_?
 This guide provides step-by-step instructions to run a PowerShell command and check the WPA Registry Count.
 
 ## Steps to Execute
